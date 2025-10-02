@@ -1,4 +1,4 @@
----
+
 
 # 📄 Model Documentation
 
@@ -20,7 +20,6 @@ We worked with a **custom dataset of loan beneficiaries**. Each record correspon
 
 The **CBSC** score is the label our model predicts.
 
----
 
 ## 2. Preprocessing
 
