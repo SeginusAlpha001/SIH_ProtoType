@@ -1,0 +1,5 @@
+.env
+Vishwas/backend-ml/*.pkl
+Vishwas/backend-ml/*.joblib
+__pycache__/
+*.pyc
